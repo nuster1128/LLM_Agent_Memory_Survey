@@ -14,13 +14,13 @@ Large language model (LLM) based agents have recently attracted much attention f
 
 - [What is the Memory of LLM-based Agent](#-What-is-the-Memory-of-LLM-based-Agent)
 - [Why We Need Memory in LLM-based Agent](#-Why-We-Need-Memory-in-LLM-based-Agent)
-- [Evaluation on LLM-based Autonomous Agent](#Evaluation-on-LLM-based-Autonomous-Agent)
-- [How to Implement the Memory of LLM-based Agent](#How-to-Implement-the-Memory-of-LLM-based-Agent)
-- [How to Evaluate the Memory in LLM-based Agent](#How-to-evaluate-the-memory-in-llm-based-agent)
-- [Memory-enhanced Agent Applications](#memory-enhanced-agent-applications)
-- [Citation](#citation)
-- [Acknowledgement](#acknowledgement)
-- [Contact Us](#contact-us)
+- [Evaluation on LLM-based Autonomous Agent](#-Evaluation-on-LLM-based-Autonomous-Agent)
+- [How to Implement the Memory of LLM-based Agent](#-How-to-Implement-the-Memory-of-LLM-based-Agent)
+- [How to Evaluate the Memory in LLM-based Agent](#-How-to-evaluate-the-memory-in-llm-based-agent)
+- [Memory-enhanced Agent Applications](#-memory-enhanced-agent-applications)
+- [Citation](#-citation)
+- [Acknowledgement](#-acknowledgement)
+- [Contact Us](#-contact-us)
 
 ## 🤖 What is the Memory of LLM-based Agent
 
