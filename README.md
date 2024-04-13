@@ -1,6 +1,6 @@
 # A Survey on the Memory Mechanism of Large Language Model based Agents
 
-![abstract](assets\abstract.png)
+![abstract](assets/abstract.png)
 
 Large language model (LLM) based agents have recently attracted much attention from the research and industry communities. Compared with original LLMs, LLM-based agents are featured in their self-evolving capability, which is the basis for solving real-world problems that need long-term and complex agent-environment interactions. The key component of the agent to support its interactions with the environment is the memory. While previous studies have proposed many promising memory mechanisms, they are scattered in different papers, and there lacks a systematical review to summarize and compare these works from a holistic perspective, and thus, failing to abstract common designing rules and extract effective patterns for inspiring future studies. To bridge this gap, in this paper, we propose a comprehensive survey on the memory mechanism of LLM-based agents. In specific, we first discuss "what is" and "why do we need'' the memory in LLM-based agents. Then, we systematically review previous studies on how to design and evaluate the memory module. At last, we present many agent applications where the memory module plays an important role. To further push the boundary of this direction, we analyze several limitations of existing memory modules and also pose potential solutions.
 
@@ -24,7 +24,7 @@ Large language model (LLM) based agents have recently attracted much attention f
 
 ## 🤖 What is the Memory of LLM-based Agent
 
-![what](assets\what.png)
+![what](assets/what.png)
 
 ## 🤖 Why We Need Memory in LLM-based Agent
 
@@ -51,27 +51,27 @@ In the above three perspectives, the first one reveals that memory builds the co
 
 ## 🤖 How to Implement the Memory of LLM-based Agent
 
-![how](assets\how.png)
+![how](assets/how.png)
 
 ### Memory Sources
 
-<img src="assets\memory_source.png" alt="memory_source" style="zoom:40%;" />
+<img src="assets/memory_source.png" alt="memory_source" style="zoom:40%;" />
 
 ### Memory Forms
 
-<img src="assets\memory_form.png" alt="memory_form" style="zoom:40%;" />
+<img src="assets/memory_form.png" alt="memory_form" style="zoom:40%;" />
 
 ### Memory Operations
 
-<img src="assets\memory_operation.png" alt="memory_operation" style="zoom:40%;" />
+<img src="assets/memory_operation.png" alt="memory_operation" style="zoom:40%;" />
 
 ## 🤖 How to Evaluate the Memory in LLM-based Agent
 
-![evaluation](assets\evaluation.png)
+![evaluation](assets/evaluation.png)
 
 ## 🤖 Memory-enhanced Agent Applications
 
-<img src="C:\Users\wfzha\Desktop\LLM_Agent_Memory_Survey\assets\application.png" alt="application" style="zoom:40%;" />
+<img src="assets/application.png" alt="application" style="zoom:40%;" />
 
 ## 🔗 Citation
 
