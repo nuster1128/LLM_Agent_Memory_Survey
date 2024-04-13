@@ -19,7 +19,7 @@ Large language model (LLM) based agents have recently attracted much attention f
 - [Memory-enhanced Agent Applications](#-memory-enhanced-agent-applications)
 - [Citation](#-citation)
 - [Acknowledgement](#-acknowledgement)
-- [Contact Us](#-Contact-Us)
+- [Contact Us](#%EF%B8%8F-Contact-Us)
 
 ## 🤖 What is the Memory of LLM-based Agent
 
