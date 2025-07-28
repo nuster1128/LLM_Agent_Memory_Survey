@@ -8,7 +8,8 @@ Large language model (LLM) based agents have recently attracted much attention f
 
 ## 📆 Updates
 
-- [2024/4/21] We release the first version of our survey on arXiv.
+- [2025/7/2] Our paper has been accepted by ACM Transactions on Information Systems (TOIS) https://dl.acm.org/doi/10.1145/3748302.
+- [2024/4/21] We release the first version of our survey on arXiv. 
 
 ## 📋 Table of Contents
 
